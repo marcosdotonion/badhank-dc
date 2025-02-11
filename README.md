@@ -1,5 +1,5 @@
-# simple-discord-ai
-A self-hostable chatbot for Discord that utilizes ollama.
+# badhank discord app
+A self-hostable chatbot for Discord that utilizes ollama. He is bad by the way.
 
 ## Installation
 1. [Install Ollama](https://ollama.com/download/)
